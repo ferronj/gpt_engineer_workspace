@@ -1,0 +1,5 @@
+We are going to create a website. 
+We will use Flask backend. 
+The website will use a bootstrap css navigation bar along the top with home, blog, projects, contact as main pages. 
+the home page will contain the navigation bar with links and "hello world!" displayed in bold text.
+Implement a home.html template, a blog.html template, projects.html template and contact.html template and implement the links to them from the navigation bar.
